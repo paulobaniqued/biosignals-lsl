@@ -1,8 +1,8 @@
-﻿using System.Collections;
+﻿﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ArrowMove : MonoBehaviour
+public class MoveUp : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

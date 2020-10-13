@@ -7,10 +7,10 @@ Biosignals Used:
 
 Control Platforms:
 1. GameObjects in Unity3D (Python-LSL-C#)
-2. Physical robot with servo motors in Arduino (Python-LSL-Arduino)
+2. Physical robot with servomotors in Arduino (LSL-Python-Serial-Arduino)
 
 <h2>EMG-LSL-Unity</h2> 
-Integrate and map a simulated EMG time-series and levitate a GameObject in Unity3D via labstreaminglayer (LSL).
+Integrate and map a simulated EMG time-series and levitate a GameObject in Unity3D via LSL.
 
 To see the full tutorial, please follow the link to my blog!
 https://www.paulobaniqued.com/post/emg-for-lsl-unity
@@ -18,8 +18,15 @@ https://www.paulobaniqued.com/post/emg-for-lsl-unity
 ![](/emg-lsl-unity/emg-lsl-unity-output.gif)
 
 <h2>EEG-LSL-Unity</h2>
-Use motor imagery-based EEG time-series and trigger a hand GameObject in Unity3D via labstreaminglayer (LSL).
+Use motor imagery-based EEG time-series and trigger a hand GameObject in Unity3D via LSL.
 
-Tutorial (especially on rigged hand animation with LSL triggers) coming soon! 
+Tutorial coming soon! 
 
 ![](/eeg-lsl-unity/eeg-lsl-unity-output.gif)
+
+<h2>EEG-LSL-Arduino</h2>
+Use motor imagery-based EEG time-series and trigger a servo-powered hand orthosis in Arduino (serial port) via LSL.
+
+Tutorial coming soon! 
+
+![](/eeg-lsl-arduino/eeg-lsl-arduino-output.gif)

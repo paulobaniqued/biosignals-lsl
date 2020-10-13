@@ -15,7 +15,11 @@ Integrate and map a simulated EMG time-series and levitate a GameObject in Unity
 To see the full tutorial, please follow the link to my blog!
 https://www.paulobaniqued.com/post/emg-for-lsl-unity
 
+![](/emg-lsl-unity/emg-lsl-unity-output.gif)
+
 <h2>EEG-LSL-Unity</h2>
 Use motor imagery-based EEG time-series and trigger a hand GameObject in Unity3D via labstreaminglayer (LSL).
 
 Tutorial (especially on rigged hand animation with LSL triggers) coming soon! 
+
+![](/eeg-lsl-unity/eeg-lsl-unity-output.gif)

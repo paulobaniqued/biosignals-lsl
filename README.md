@@ -13,7 +13,7 @@ Control Platforms:
 Integrate and map a simulated EMG time-series and levitate a GameObject in Unity3D via LSL.
 
 To see the full tutorial, please follow the link to my blog!
-https://paulbaniqued83.wixsite.com/paulobaniqued/post/emg-for-lsl-unity
+https://uomrobotics.notion.site/Integrating-Simulated-EMG-time-series-to-Unity-via-Labstreaminglayer-367cf6b46365452ea7b9e071debc0837
 
 ![](/emg-lsl-unity/emg-lsl-unity-output.gif)
 
